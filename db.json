@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "title": "tester dawd",
+      "name": "Laurencedawd",
+      "id": 1
+    },
+    {
+      "title": "masterss",
+      "name": "Bryantss",
+      "id": 2
+    },
+    {
+      "title": "beginner",
+      "name": "Nick",
+      "id": 3
+    },
+    {
+      "title": "news paper",
+      "name": "angela",
+      "id": 4
+    },
+    {
+      "title": "Jow",
+      "name": "Lourenr",
+      "id": 5
+    },
+    {
+      "title": "SUnni",
+      "name": "Bojak",
+      "id": 8
+    },
+    
+    {
+      "title": "SUnni",
+      "name": "Bojak",
+      "id": 22
+    }
+  ],
+  "comment": [
+    {
+      "id": 1,
+      "title": "Content paper",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "anonymous"
+  }
+}
